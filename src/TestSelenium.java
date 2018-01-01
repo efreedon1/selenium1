@@ -17,7 +17,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 public class TestSelenium {
 
-@Test
+@Test // NEW JUNIT
     public static void main(String[] args) {
         // TODO Auto-generated method stub
 
